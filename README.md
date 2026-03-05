@@ -1,6 +1,6 @@
 # Air Pollution and Marathon Performance
 
-Code repository for the research study examining the association between ambient air pollution (NO2 and PM2.5) and marathon finish times across the six World Marathon Majors (2010–2024).
+Code repository for the research study by Donaldson et al. examining the association between ambient air pollution (NO2 and PM2.5) and marathon finish times across the six World Marathon Majors (2010–2024).
 
 This repository is provided in accordance with the BMJ's data sharing and code availability policy.
 
@@ -76,3 +76,4 @@ Raw runner results were obtained from publicly available marathon results databa
 ## License
 
 This code is made available for the purposes of transparency and reproducibility of the associated research study.
+
